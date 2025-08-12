@@ -26,7 +26,7 @@
     "fs-extra": "^10.1.0",
     "inquirer": "^8.2.4",
     "minimatch": "^9.0.0",
-    "node-plop": "^0.26.3",
+    "node-plop": "^0.30.0",
     "picocolors": "1.0.1",
     "proxy-agent": "^6.2.2",
     "ts-node": "^10.9.1",
